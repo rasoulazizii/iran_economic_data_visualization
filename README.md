@@ -55,7 +55,6 @@ This project was a deep dive into **Data Storytelling**. Beyond just plotting li
 ## 📂 Project Structure
 - `data.csv`: The primary dataset containing Iran's economic indicators.
 - `plots/`: Generated visualizations in PNG format.
-- `analysis_script.py`: The core Python logic for data processing and visualization.
 
 ---
 *Developed as part of an economic data research and visualization study.*
