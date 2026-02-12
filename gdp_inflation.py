@@ -28,5 +28,5 @@ ax2.legend(loc='upper right')
 
 plt.tight_layout()
 
-plt.savefig("data/gdp_vs_inflation.png", dpi=300)
+plt.savefig("plots/gdp_vs_inflation.png", dpi=300)
 plt.show()

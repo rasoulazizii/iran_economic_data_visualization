@@ -27,5 +27,5 @@ ax2.legend(loc='upper right')
 
 plt.tight_layout()
 
-plt.savefig("data/tradeblance_vs_exchnagerate.png", dpi=300)
+plt.savefig("plots/tradeblance_vs_exchnagerate.png", dpi=300)
 plt.show()
