@@ -12,6 +12,7 @@ trade_balance = (data['Exports_USD'] - data['Imports_USD']) / 1_000_000_000
 plt.figure(figsize=(10,6))
 
 plt.plot(years, trade_balance, marker='o', linewidth=2, label='trade balance')
+plt.axhline(0)
 plt.title('Trade Balance')
 plt.xlabel('years')
 plt.ylabel('Trade Balance (Billion USD)')
