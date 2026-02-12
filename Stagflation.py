@@ -17,5 +17,5 @@ plt.xlabel('years')
 plt.ylabel('percent (%)')
 plt.legend(loc='upper left', fontsize=10)
 plt.grid(True)
-
+plt.savefig("data/stagflation.png", dpi=300)
 plt.show()
